@@ -1,12 +1,12 @@
 [
-    {"nama": "Madrid", "Negara": "Spanyol", "imageId": "Madrid"},
-    {"nama": "Istanbul", "Negara": "Turkiye", "imageId": "Istanbul"},
-    {"nama": "Marrakech", "Negara": "Maroko", "imageId": "Marrakech"},
-    {"nama": "Crete", "Negara": "Yunani", "imageId": "Crete"},
-    {"nama": "Cancun", "Negara": "Meksiko", "imageId": "Cancun"},
-    {"nama": "Paris", "Negara": "Perancis", "imageId": "Paris"},
-    {"nama": "Roma", "Negara": "Italia", "imageId": "Roma"},
-    {"nama": "London", "Negara": "Inggris", "imageId": "London"},
-    {"nama": "Bali", "Negara": "Indonesia", "imageId": "Bali"},
-    {"nama": "Dubai", "Negara": "Uni Emirat Arab (UEA)", "imageId": "Dubai"}
+    {"nama": "Madrid", "negara": "Spanyol", "imageId": "Madrid"},
+    {"nama": "Istanbul", "negara": "Turkiye", "imageId": "Istanbul"},
+    {"nama": "Marrakech", "negara": "Maroko", "imageId": "Marrakech"},
+    {"nama": "Crete", "negara": "Yunani", "imageId": "Crete"},
+    {"nama": "Cancun", "negara": "Meksiko", "imageId": "Cancun"},
+    {"nama": "Paris", "negara": "Perancis", "imageId": "Paris"},
+    {"nama": "Roma", "negara": "Italia", "imageId": "Roma"},
+    {"nama": "London", "negara": "Inggris", "imageId": "London"},
+    {"nama": "Bali", "negara": "Indonesia", "imageId": "Bali"},
+    {"nama": "Dubai", "negara": "Uni Emirat Arab (UEA)", "imageId": "Dubai"}
 ]
