@@ -1,0 +1,12 @@
+[
+    {"nama": "Madrid", "Negara": "Spanyol", "imageId": "madrid"},
+    {"nama": "Istanbul", "Negara": "Turkiye", "imageId": "istanbul"},
+    {"nama": "Marrakech", "Negara": "Maroko", "imageId": "marrakech"},
+    {"nama": "Crete", "Negara": "Yunani", "imageId": "crete"},
+    {"nama": "Cancun", "Negara": "Meksiko", "imageId": "cancun"},
+    {"nama": "Paris", "Negara": "Perancis", "imageId": "paris"},
+    {"nama": "Roma", "Negara": "Italia", "imageId": "roma"},
+    {"nama": "London", "Negara": "Inggris", "imageId": "london"},
+    {"nama": "Bali", "Negara": "Indonesia", "imageId": "bali"},
+    {"nama": "Dubai", "Negara": "Uni Emirat Arab (UEA)", "imageId": "dubai"}
+]
