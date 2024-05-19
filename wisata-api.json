@@ -8,5 +8,7 @@
     {"nama": "Roma", "negara": "Italia", "imageId": "Roma"},
     {"nama": "London", "negara": "Inggris", "imageId": "London"},
     {"nama": "Bali", "negara": "Indonesia", "imageId": "Bali"},
-    {"nama": "Dubai", "negara": "Uni Emirat Arab (UEA)", "imageId": "Dubai"}
+    {"nama": "Dubai", "negara": "Uni Emirat Arab (UEA)", "imageId": "Dubai"},
+    {"nama": "Lisbon", "negara": "Portugal", "imageId": "Lisbon"},
+    {"nama": "Bangkok", "negara": "Thailand", "imageId": "Bangkok"}
 ]
